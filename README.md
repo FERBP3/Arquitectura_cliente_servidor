@@ -34,7 +34,7 @@ Se deberá modificar el archivo `Handler.java` que está en `src`.
 
 Se debe de estar en la carpeta cliente, luego se ejecuta:
 
-###`javac -cp gson-2.6.2.jar: Cliente.java`
+### `javac -cp gson-2.6.2.jar: Cliente.java`
 
 Luego para ejecutar la aplicación se ejecuta:
 
