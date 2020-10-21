@@ -1,0 +1,13 @@
+version: "3.1"
+services:
+  db:
+    build: ./my-mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=234
+  server:
+    depends_on:
+      - db
+    build: ./servidor
+    ports:
+      - '8000:8000'
+
