@@ -1,4 +1,5 @@
-# System that implements the client-server arquitecture
+# Client-server arquitecture
+System that implements the client-server arquitecture
 
 ## Content of the image
 
